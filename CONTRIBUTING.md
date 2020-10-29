@@ -2,14 +2,14 @@
 
 ## Antes de Contribuir
 
-Bem vindo ao [Feed To Telegram](https://github.com/lariodiniz/feedToTelegram)! Antes de enviar seus pull requests, leia todo nosso **guia de contribuição**. Se você tiver qualquer dúvida sobre esse guia, fique a vontade para faze-la no nosso [issue](https://github.com/lariodiniz/feedToTelegram/issues/new).
+Bem vindo ao [Feed To Messengers](https://github.com/lariodiniz/feedToMessengers)! Antes de enviar seus pull requests, leia todo nosso **guia de contribuição**. Se você tiver qualquer dúvida sobre esse guia, fique a vontade para faze-la no nosso [issue](https://github.com/lariodiniz/feedToMessengers/issues/new).
 
 ## Contribuição
 
 
 ### Contribuidor
 
-Agradecemos que você considere contribuir para o [Feed To Telegram](https://github.com/lariodiniz/feedToTelegram)! Nosso objetivo é ajudar a comunidade da podosfera a divilgar seus podcasts para o máximo de pessoas possiveis. Sendo um de nossos colaboradores, você concorda e confirma que:
+Agradecemos que você considere contribuir para o [Feed To Messengers](https://github.com/lariodiniz/feedToMessengers)! Nosso objetivo é ajudar a comunidade da podosfera a divilgar seus podcasts para o máximo de pessoas possiveis. Sendo um de nossos colaboradores, você concorda e confirma que:
 
 - Seu trabalho será distribuído sob a [MIT License](LICENSE.md) assim que seu pull request for mesclado.
 - Você enviou um código que siga o nosso **Estilo de Codificação**
@@ -33,7 +33,7 @@ Agradecemos qualquer contribuição, desde correções em erros de gramática at
  04 - Clone essa cópia do reposítorio para a sua maquina.
 
  ```
- git clone https://github.com/[seuNomeDeUsuarioDoGitHub]/feedToTelegram.git
+ git clone https://github.com/[seuNomeDeUsuarioDoGitHub]/feedToMessengers.git
  ```
 
  05 - Acesse a pasta clonada pelo terminal.
@@ -41,7 +41,7 @@ Agradecemos qualquer contribuição, desde correções em erros de gramática at
  06 - Defina o projeto principal como um novo remote no seu projeto para você ter acesso as mudanças que forem adicionadas nele.
 
  ```
- git remote add upstream https://github.com/lariodiniz/feedToTelegram.git
+ git remote add upstream https://github.com/lariodiniz/feedToMessengers.git
  ```
 
  07 - Inicie o git flow no seu diretório do projeto. (Mais informaçoes sobre o [git-flow](https://medium.com/@lariodiniz/tutorial-git-com-git-flow-476ad906c8ae))
