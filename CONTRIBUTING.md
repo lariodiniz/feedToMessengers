@@ -2,7 +2,7 @@
 
 ## Antes de Contribuir
 
-Brm vindo ao [Feed To Telegram](https://github.com/lariodiniz/feedToTelegram)! Antes de enviar seus pull requests, leia todo nosso **guia de contribuição**. Se você tiver qualquer dúvida sobre esse guia, fique a vontade para faze-la no nosso [issue](https://github.com/lariodiniz/feedToTelegram/issues/new).
+Bem vindo ao [Feed To Telegram](https://github.com/lariodiniz/feedToTelegram)! Antes de enviar seus pull requests, leia todo nosso **guia de contribuição**. Se você tiver qualquer dúvida sobre esse guia, fique a vontade para faze-la no nosso [issue](https://github.com/lariodiniz/feedToTelegram/issues/new).
 
 ## Contribuição
 
@@ -21,6 +21,8 @@ Agradecemos qualquer contribuição, desde correções em erros de gramática at
 
 ### Fluxo de Trabalho
  Nota: Sugerimos a utilização de uma virtualização para a contribuição desse projeto, utilizamos o [Anaconta](https://www.anaconda.com/download/).
+
+ 00 - (NÂO OBRIGATÓRIO) Junte-se a nós no Trello para acompanhar o que esta sendo desenvolvido [Trello](https://trello.com/b/e584rAfg).
 
  01 - Instale o [Python 3.8+](https://www.python.org/downloads/).
 
